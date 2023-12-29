@@ -1,0 +1,51 @@
+.header {
+  width: 100%;
+  height: 80vh;
+  margin-inline: auto;
+}
+.seasonal {
+  width: 100%;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.seasonal img {
+  width: 54px;
+  height: 54.188px;
+  margin-left: 100px;
+}
+.seasonal-place-container {
+  width: 100%;
+  height: 60vh;
+}
+.introduction-seasonal {
+  width: 35%;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.seasonal-place {
+  width: 80%;
+  height: 60vh;
+  margin-inline: auto;
+  background-color: #003657;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: row;
+}
+.collection-card-iamge {
+  width: 30%;
+  height: 60vh;
+  background-image: url("src/assets/cards decoration.png");
+  background-repeat: no-repeat;
+  background-position: bottom left;
+}
+.main-logo-container {
+  width: 40%;
+  height: 60vh;
+  background-image: url("src/assets/rainbow.png"), url("src/assets/girl.png");
+  background-repeat: no-repeat;
+  background-position: bottom right, top left;
+}

@@ -1,0 +1,24 @@
+.trending-container {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 40px;
+}
+.introduction-trending {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.introduction-trending img {
+  width: 54px;
+  height: 57.11px;
+  margin-left: 100px;
+}
+.trending-cards-place {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}

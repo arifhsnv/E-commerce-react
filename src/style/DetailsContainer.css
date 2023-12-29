@@ -1,0 +1,24 @@
+.top-details-information {
+  width: 80%;
+  height: 20vh;
+  background-color: #131b40;
+  border-radius: 14px;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 40px;
+}
+.details-place {
+  width: 80%;
+  height: 1270px;
+  background-color: #131b40;
+  border-radius: 14px;
+  margin-inline: auto;
+  margin-top: 8%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}

@@ -1,0 +1,33 @@
+.product-page-container{
+    border: 1px solid;
+    width: 100%;
+    height: 200vh;
+    background-color: #050121;
+}
+.product-page-details{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.product-description{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.button-places{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.types-button{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+

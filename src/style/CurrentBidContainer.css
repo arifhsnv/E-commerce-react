@@ -1,0 +1,12 @@
+.current-bid-container{
+    border: 1px solid;
+    width: 80%;
+    height: 1274px;
+    background-color: #131B40;
+    border-radius: 14px;
+    margin-inline: auto;
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

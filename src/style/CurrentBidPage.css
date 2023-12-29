@@ -1,0 +1,18 @@
+.current-bid-page {
+  background-color: #050121;
+}
+.top-current-bid {
+  display: flex;
+  justify-content: center;
+}
+.buying-selling-buttons {
+  border: 1px solid;
+  width: 80%;
+  height: 80px;
+  margin-inline: auto;
+  background-color: #2d396b;
+  border-radius: 14px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

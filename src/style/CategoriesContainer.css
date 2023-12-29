@@ -1,0 +1,26 @@
+.categories-introduction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+
+}
+.top-intro {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.categories-introduction .top-intro img {
+  width: 54px;
+  height: 62.142px;
+  margin-left: 100px;
+}
+.categories-cards-place {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 40px;
+}
+

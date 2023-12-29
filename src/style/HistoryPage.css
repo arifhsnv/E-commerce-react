@@ -1,0 +1,27 @@
+.history-page-container {
+  background-color: #050121;
+}
+.introduction-history {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.time-buy {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.from-date {
+  display: flex;
+  flex-direction: column;
+}
+.sell-buy-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  margin-top: 40px;
+}

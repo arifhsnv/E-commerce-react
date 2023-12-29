@@ -1,0 +1,19 @@
+.detail {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin-inline: auto;
+  background-color: #131b40;
+  cursor: pointer;
+}
+.detail .car-image {
+  width: 110px;
+  height: 110px;
+  border-radius: 10px;
+}
+.eth-currency {
+  width: 24px;
+  height: 24px;
+}
